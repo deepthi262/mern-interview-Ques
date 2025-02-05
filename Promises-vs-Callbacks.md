@@ -80,4 +80,3 @@
 - **Callbacks may be faster in some cases** (lower memory overhead), but they introduce complexity in larger applications.
 - **For even better syntax**, use `async/await`, which is built on top of Promises and offers cleaner code.
 
-Would you like an example of `async/await` as well? 🚀
